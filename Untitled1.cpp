@@ -1,7 +1,7 @@
 #include<stdio.h>
-int main()
+main()
 {
-  printf("hello world");
-  return 0;
+	int a;
+	for(a=1;a<=20;a++);
+	printf("\n%d",a);
 }
-
